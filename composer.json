@@ -1,5 +1,5 @@
 {
-    "name": "staffim/rollbar-bundle",
+    "name": "satellite/rollbar-bundle",
     "description": "Bundle for Symfony2 that reports errors to Rollbar",
     "keywords": ["rollbar"],
     "license": "MIT",
